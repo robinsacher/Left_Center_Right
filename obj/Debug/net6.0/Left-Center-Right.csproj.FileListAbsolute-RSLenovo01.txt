@@ -1,0 +1,14 @@
+C:\Users\robin\OneDrive - Kantonsschule Baden\Schule\BBB\Informatik und Naturwissenschaften\2 Lehrjahr\Modul 320\Programmieren\Left-Center-Right\bin\Debug\net6.0\Left-Center-Right.exe
+C:\Users\robin\OneDrive - Kantonsschule Baden\Schule\BBB\Informatik und Naturwissenschaften\2 Lehrjahr\Modul 320\Programmieren\Left-Center-Right\bin\Debug\net6.0\Left-Center-Right.deps.json
+C:\Users\robin\OneDrive - Kantonsschule Baden\Schule\BBB\Informatik und Naturwissenschaften\2 Lehrjahr\Modul 320\Programmieren\Left-Center-Right\bin\Debug\net6.0\Left-Center-Right.runtimeconfig.json
+C:\Users\robin\OneDrive - Kantonsschule Baden\Schule\BBB\Informatik und Naturwissenschaften\2 Lehrjahr\Modul 320\Programmieren\Left-Center-Right\bin\Debug\net6.0\Left-Center-Right.dll
+C:\Users\robin\OneDrive - Kantonsschule Baden\Schule\BBB\Informatik und Naturwissenschaften\2 Lehrjahr\Modul 320\Programmieren\Left-Center-Right\bin\Debug\net6.0\Left-Center-Right.pdb
+C:\Users\robin\OneDrive - Kantonsschule Baden\Schule\BBB\Informatik und Naturwissenschaften\2 Lehrjahr\Modul 320\Programmieren\Left-Center-Right\obj\Debug\net6.0\Left-Center-Right.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robin\OneDrive - Kantonsschule Baden\Schule\BBB\Informatik und Naturwissenschaften\2 Lehrjahr\Modul 320\Programmieren\Left-Center-Right\obj\Debug\net6.0\Left-Center-Right.AssemblyInfoInputs.cache
+C:\Users\robin\OneDrive - Kantonsschule Baden\Schule\BBB\Informatik und Naturwissenschaften\2 Lehrjahr\Modul 320\Programmieren\Left-Center-Right\obj\Debug\net6.0\Left-Center-Right.AssemblyInfo.cs
+C:\Users\robin\OneDrive - Kantonsschule Baden\Schule\BBB\Informatik und Naturwissenschaften\2 Lehrjahr\Modul 320\Programmieren\Left-Center-Right\obj\Debug\net6.0\Left-Center-Right.csproj.CoreCompileInputs.cache
+C:\Users\robin\OneDrive - Kantonsschule Baden\Schule\BBB\Informatik und Naturwissenschaften\2 Lehrjahr\Modul 320\Programmieren\Left-Center-Right\obj\Debug\net6.0\Left-Center-Right.dll
+C:\Users\robin\OneDrive - Kantonsschule Baden\Schule\BBB\Informatik und Naturwissenschaften\2 Lehrjahr\Modul 320\Programmieren\Left-Center-Right\obj\Debug\net6.0\refint\Left-Center-Right.dll
+C:\Users\robin\OneDrive - Kantonsschule Baden\Schule\BBB\Informatik und Naturwissenschaften\2 Lehrjahr\Modul 320\Programmieren\Left-Center-Right\obj\Debug\net6.0\Left-Center-Right.pdb
+C:\Users\robin\OneDrive - Kantonsschule Baden\Schule\BBB\Informatik und Naturwissenschaften\2 Lehrjahr\Modul 320\Programmieren\Left-Center-Right\obj\Debug\net6.0\Left-Center-Right.genruntimeconfig.cache
+C:\Users\robin\OneDrive - Kantonsschule Baden\Schule\BBB\Informatik und Naturwissenschaften\2 Lehrjahr\Modul 320\Programmieren\Left-Center-Right\obj\Debug\net6.0\ref\Left-Center-Right.dll

@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Left_Center_Right</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <EditorConfigFiles Remove="C:\Users\robin\OneDrive - Kantonsschule Baden\BBB\Informatik und Naturwissenschaften\2 Lehrjahr\Modul 320\Programmieren\sacher_robin_M320_OBA_LRC\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\robin\OneDrive - Kantonsschule Baden\BBB\Informatik und Naturwissenschaften\2 Lehrjahr\Modul 320\Programmieren\sacher_robin_M320_OBA_LRC\.editorconfig" />
+  </ItemGroup>
+
+</Project>
